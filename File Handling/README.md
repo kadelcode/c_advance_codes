@@ -58,3 +58,17 @@
 
 -   "a+" - Read and Write, but append instead of overwrite
 -   "ab+" - Open for both reading and appending in binary mode
+
+
+# File Functions
+-   fopen() - Opens a new or existing file
+-   fprintf() - Write data into the file
+-   fscanf() - Read data from the file
+-   fputc() - Write a character into the file
+-   fgetc() - Read a character from a file
+-   fclose() - Close a file
+-   fseek() - Set a file pointer to a given position
+-   fputw() - Write an integer to a file
+-   fgetw() - Read an integer from a file
+-   ftell() - Return the current position
+-   rewind() - Set the file pointer to the beginning of the file
